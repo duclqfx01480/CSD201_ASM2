@@ -1,0 +1,7 @@
+B68,Vin Smart,19.9,1000
+A1,iPhone,999.0,68
+Lux,Vinfast Lux 2.0,55000.0,2
+G7,Coffee,9.9,100
+TS,Tesla Model S,39000.0,9
+Z1000,Motorbike,4999.0,1
+PRO1,iPad,679.0,68

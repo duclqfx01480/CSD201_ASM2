@@ -1,0 +1,3 @@
+IP6,iPhone,599.0,10
+MP,Macbook Air,799.0,79
+IP7,iPad Pro,999.0,20
